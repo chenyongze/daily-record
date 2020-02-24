@@ -3,7 +3,7 @@
   "description": "daily record",
   "author": "yongze.chen",
   "output.name": "site",
-  "language": "zh-han",
+  "language": "zh-hans",
   "direction": "rtl",
   "gitbook": "3.2.3",
   "root": ".",
