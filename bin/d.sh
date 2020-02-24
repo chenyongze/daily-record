@@ -35,6 +35,7 @@ echo -e "\033[34m
 rsync -avz ${DIST_PATH}/_book ${EXCLUDE_FILE} ${PUSH_SSH}:${PUSH_ONLINE_DIST} 
 \033[0m"
 
+gitbook init
 gitbook build
 
 echo -e "\033[36m 同步代码开始..."
