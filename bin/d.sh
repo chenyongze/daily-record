@@ -42,3 +42,12 @@ echo -e "\033[36m 同步代码开始..."
 rsync -avz ${DIST_PATH}/_book ${EXCLUDE_FILE} ${PUSH_SSH}:${PUSH_ONLINE_DIST}
 echo -e "\033[0m"
 # 更改环境
+
+if [ ! $1 ]; then
+    echo "IS NULL"
+else
+    git add .
+    git commit -m $1
+    git push -u origin master
+fi
+exit
