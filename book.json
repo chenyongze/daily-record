@@ -1,0 +1,80 @@
+{
+  "title": "yongze.chen daily record",
+  "description": "aily record",
+  "author": "yongze.chen",
+  "output.name": "site",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "root": ".",
+  "structure": {
+    "readme": "README.md"
+  },
+  "links": {
+    "sidebar": {
+      "Home": "http://dotalk.cn"
+    }
+  },
+  "plugins": [
+    "tbfed-pagefooter",
+    "donate",
+    "copy-code-button",
+    "alerts",
+    "include-csv",
+    "rss",
+    "github",
+    "github-buttons",
+    "anchor-navigation-ex"
+  ],
+  "pluginsConfig": {
+    "tbfed-pagefooter": {
+      "copyright": "&copy yongze.chen",
+      "modify_label": "文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "donate": {
+      "wechat": "https://zhangjikai.com/resource/weixin.png",
+      "alipay": "https://zhangjikai.com/resource/alipay.png",
+      "title": "",
+      "button": "赏",
+      "alipayText": "支付宝打赏",
+      "wechatText": "微信打赏"
+    },
+    "rss": {
+      "title": "GitBook 使用教程",
+      "description": "记录 GitBook 的配置和一些插件的使用",
+      "author": "Jikai Zhang",
+      "feed_url": "http://gitbook.zhangjikai.com/rss",
+      "site_url": "http://gitbook.zhangjikai.com/",
+      "managingEditor": "me@zhangjikai.com",
+      "webMaster": "me@zhangjikai.com",
+      "categories": [
+        "gitbook"
+      ]
+    },
+    "github": {
+      "url": "https://github.com/chenyongze"
+    },
+    "github-buttons": {
+      "repo": "chenyongze/daily-record",
+      "types": [
+        "star",
+        "watch",
+        "fork"
+      ],
+      "size": "small"
+    },
+    "anchor-navigation-ex": {
+      "showLevel": false,
+      "associatedWithSummary": true,
+      "printLog": true,
+      "multipleH1": true,
+      "mode": "float",
+      "float": {
+        "showLevelIcon": false,
+        "level1Icon": "fa fa-hand-o-right",
+        "level2Icon": "fa fa-hand-o-right",
+        "level3Icon": "fa fa-hand-o-right"
+      }
+    }
+  }
+}
