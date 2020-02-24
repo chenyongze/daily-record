@@ -22,6 +22,8 @@
     "include-csv",
     "rss",
     "github",
+    "-sharing",
+    "baidu-tongji",
     "github-buttons",
     "anchor-navigation-ex"
   ],
@@ -62,6 +64,9 @@
         "fork"
       ],
       "size": "small"
+    },
+    "baidu-tongji": {
+      "token": "55e7dfe47f4dc1c12345678fdfa62565"
     },
     "anchor-navigation-ex": {
       "showLevel": false,
