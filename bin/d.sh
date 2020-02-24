@@ -32,7 +32,7 @@ fi
 # 发布代码
 echo -e "\033[34m
 执行同步命令：
-rsync -avz ${DIST_PATH}/_book ${EXCLUDE_FILE} ${PUSH_SSH}:${PUSH_ONLINE_DIST} 
+rsync -avz ${DIST_PATH}/_book ${EXCLUDE_FILE} ${PUSH_SSH}:${PUSH_ONLINE_DIST}
 \033[0m"
 
 gitbook init
@@ -43,6 +43,7 @@ rsync -avz ${DIST_PATH}/_book ${EXCLUDE_FILE} ${PUSH_SSH}:${PUSH_ONLINE_DIST}
 echo -e "\033[0m"
 # 更改环境
 
+# push github
 if [ ! $1 ]; then
     echo "IS NULL"
 else
@@ -50,4 +51,3 @@ else
     git commit -m $1
     git push -u origin master
 fi
-exit
