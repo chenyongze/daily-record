@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [介绍](README.md)
 * 2020
     * 2月
         * [02-23](2020/2月/02-23.md)
