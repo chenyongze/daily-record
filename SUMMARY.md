@@ -10,4 +10,6 @@
     * [bilibili收集](pages/topic/bilibili.md)
     * [spark探索](pages/topic/spark.md)
     * [php](pages/topic/php.md)
+    * [node](pages/topic/node.md)
+    * [react](pages/topic/react.md)
 
