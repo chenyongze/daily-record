@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GitBook 使用教程]]></title>
+        <description><![CDATA[记录 GitBook 的配置和一些插件的使用]]></description>
+        <link>http://gitbook.zhangjikai.com/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 24 Feb 2020 01:54:36 GMT</lastBuildDate>
+        <atom:link href="http://gitbook.zhangjikai.com/rss" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[Jikai Zhang]]></author>
+        <managingEditor><![CDATA[me@zhangjikai.com]]></managingEditor>
+        <webMaster><![CDATA[me@zhangjikai.com]]></webMaster>
+        <category><![CDATA[gitbook]]></category>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>http://gitbook.zhangjikai.com/</link>
+            <guid isPermaLink="true">http://gitbook.zhangjikai.com/</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[02-23]]></title>
+            <description><![CDATA[image-20200223141536579]]></description>
+            <link>http://gitbook.zhangjikai.com/2020/2月/02-23.html</link>
+            <guid isPermaLink="true">http://gitbook.zhangjikai.com/2020/2月/02-23.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[02-24]]></title>
+            <link>http://gitbook.zhangjikai.com/2020/2月/02-24.html</link>
+            <guid isPermaLink="true">http://gitbook.zhangjikai.com/2020/2月/02-24.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[TCP/IP]]></title>
+            <description><![CDATA[image-20200223201433748]]></description>
+            <link>http://gitbook.zhangjikai.com/topic/TCP_IP.html</link>
+            <guid isPermaLink="true">http://gitbook.zhangjikai.com/topic/TCP_IP.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[bilibili]]></title>
+            <description><![CDATA[下面是up之前做的一些分享视频，感兴趣的小伙伴可以去看一看，希望对大家有所帮助：]]></description>
+            <link>http://gitbook.zhangjikai.com/topic/bilibili.html</link>
+            <guid isPermaLink="true">http://gitbook.zhangjikai.com/topic/bilibili.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[spark]]></title>
+            <link>http://gitbook.zhangjikai.com/topic/spark.html</link>
+            <guid isPermaLink="true">http://gitbook.zhangjikai.com/topic/spark.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+    </channel>
+</rss>
