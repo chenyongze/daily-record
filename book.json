@@ -29,7 +29,7 @@
   ],
   "pluginsConfig": {
     "tbfed-pagefooter": {
-      "copyright": "&copy yongze.chen",
+      "copyright": "&copy yongze.chen flag:锻炼、健身、读书",
       "modify_label": "文件修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
