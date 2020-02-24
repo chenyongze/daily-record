@@ -28,9 +28,9 @@
 
 
 
-> **[warning] For warning**
+> **[warning] 联系方式**
 >
-> Use this for warning messages.
+> Email:yongze@dingtalk.com
 
 
 
