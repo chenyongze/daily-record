@@ -4,9 +4,7 @@
 
 ##### 网络传输：
 
-![image-20200223201433748](TCPIP.assets/image-20200223201433748.png)
-
-![180](TCP_IP.assets/180.png)
+![image-20200223201433748](TCP_IP.assets/image-20200223201433748.png)
 
 改进
 
