@@ -1,6 +1,6 @@
 {
   "title": "yongze.chen daily record",
-  "description": "aily record",
+  "description": "daily record",
   "author": "yongze.chen",
   "output.name": "site",
   "language": "zh-hans",
@@ -11,7 +11,7 @@
   },
   "links": {
     "sidebar": {
-      "Home": "http://dotalk.cn"
+      "Home": "http://www.dotalk.cn"
     }
   },
   "plugins": [
@@ -70,7 +70,7 @@
       "multipleH1": true,
       "mode": "float",
       "float": {
-        "showLevelIcon": false,
+        "showLevelIcon": true,
         "level1Icon": "fa fa-hand-o-right",
         "level2Icon": "fa fa-hand-o-right",
         "level3Icon": "fa fa-hand-o-right"
