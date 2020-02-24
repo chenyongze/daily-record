@@ -25,6 +25,11 @@
     "-sharing",
     "baidu-tongji",
     "github-buttons",
+    "-lunr",
+    "-search",
+    "search-plus",
+    "advanced-emoji",
+    "emphasize",
     "anchor-navigation-ex"
   ],
   "pluginsConfig": {
@@ -44,11 +49,11 @@
     "rss": {
       "title": "GitBook 使用教程",
       "description": "记录 GitBook 的配置和一些插件的使用",
-      "author": "Jikai Zhang",
+      "author": "yongze.chen",
       "feed_url": "http://daily.dotalk.cn/rss",
       "site_url": "http://daily.dotalk.cn/",
-      "managingEditor": "me@zhangjikai.com",
-      "webMaster": "me@zhangjikai.com",
+      "managingEditor": "",
+      "webMaster": "",
       "categories": [
         "gitbook"
       ]
@@ -78,7 +83,8 @@
         "showLevelIcon": true,
         "level1Icon": "fa fa-hand-o-right",
         "level2Icon": "fa fa-hand-o-right",
-        "level3Icon": "fa fa-hand-o-right"
+        "level3Icon": "fa fa-hand-o-right",
+        "level4Icon": "fa fa-hand-o-right"
       }
     }
   }
