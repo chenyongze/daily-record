@@ -15,7 +15,9 @@
         * [03-01](pages/2020/3月/03-01.md)
         * [03-02](pages/2020/3月/03-02.md)
         * [03-03](pages/2020/3月/03-03.md)
+        * [03-04](pages/2020/3月/03-04.md)
 * [TCP/IP协议](pages/topic/TCP_IP.md)
+* [趣谈http](pages/topic/http.md)
 * [bilibili收集](pages/topic/扩展阅读/bilibili.md)
 * [spark探索](pages/topic/spark.md)
 * [php](pages/topic/php/介绍.md)
@@ -26,6 +28,8 @@
 * [go--关键字](pages/topic/golang/go.md)
 * [thirft](pages/topic/thirft.md)
 * [gitbook](pages/topic/gitbook.md)
+* [dnf](pages/topic/dnf.md)
+* [centos 服务器部署](pages/topic/centos-init.md)
 * python
     * [supervisor](pages/topic/python/supervisor.md)
     * [pipenv](pages/topic/python/pipenv.md)
