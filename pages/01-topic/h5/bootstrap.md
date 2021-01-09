@@ -1,0 +1,58 @@
+# BootStrap
+
+- 布局容器 container
+  - .container
+  - .container-pl...
+- 栅格网格
+  - row
+  - col
+    - 一行12列
+    - 列偏移   列与列的距离  col-offet-x
+    - Pull   、push  
+- 常用样式
+  - 标题
+  - 段落
+  - 强调
+  - 对齐效果
+  - 列表
+  - 代码
+  - 表格
+  - 表单元素【控件】
+    - 文本框 
+      -  form-control
+    - 下拉框
+      - form-control
+      - 多选  mut...
+    - 文本域
+      - form-control
+    - 复选框
+      - .checkbox  垂直
+      - .checkbox-inline   水平
+    - 单选框
+      - .redio 垂直
+      - .redio-inline 水平 
+    - 按钮
+      - 基本样式 .btn
+      - 附加样式   btn-rimary btn-info
+      - 多标签使用  a、 span、 div
+      - 按钮大小
+        - 大 Btn-lg
+        - 正常 Btn-sm 
+        - 小 Btn-xs
+      - 按钮禁用
+        - 通过disable属性禁用  真正禁用
+        - 通过 disable 样式禁用   不是真正禁用
+- 表单布局
+  - 水平表单  
+    - 设置样式 form-horizontal
+  - 内联表单
+    - 设置样式  form-inline
+- 缩略图
+- 面板
+  - 样式   panel  
+    - Panel-body  主体
+    - Panel-heading 头
+- 插件
+  - 导航、分页、下拉菜单
+  - 模态框
+
