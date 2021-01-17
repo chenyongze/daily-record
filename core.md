@@ -1,13 +1,3 @@
-<!--
-
- * @Author: your name
- * @Date: 2021-01-09 08:47:36
- * @LastEditTime: 2021-01-09 10:07:24
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: /daily-record/Read.md
--->
-
 插件说明:
 summary: 自动生成SUMMARY.md文件
 
